@@ -1,4 +1,6 @@
 x=Hello
 y=Python
-Print(x)
-Print(y)
+print(x)
+print(y)
+c=x+y
+print(c)
